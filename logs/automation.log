@@ -1,0 +1,23 @@
+22:48:36.086 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+22:48:36.107 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***************Finished TC_001_AccountRegistrationTest  ***************
+22:48:36.446 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Closing Application
+22:48:36.453 [main] INFO  testCases.TC_002_LoginTest - ******Launching Chrome Browser**********
+22:48:39.784 [main] INFO  testCases.TC_002_LoginTest - *****Launching Application
+22:48:39.948 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+22:48:42.024 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest.......
+22:48:42.324 [main] INFO  testCases.TC_002_LoginTest - *****Closing Application
+23:02:00.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******Launching Chrome Browser**********
+23:02:05.853 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Launching Application
+23:02:06.024 [main] INFO  testCases.TC_001_AccountRegistrationTest - ************* starting TC_001_AccountRegistrationTest  ***************
+23:02:06.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account Link
+23:02:07.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register Link
+23:02:07.313 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer details......
+23:02:11.664 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on continue button
+23:02:11.739 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:02:11.746 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***************Finished TC_001_AccountRegistrationTest  ***************
+23:02:12.133 [main] INFO  testCases.TC_001_AccountRegistrationTest - *****Closing Application
+23:02:12.136 [main] INFO  testCases.TC_002_LoginTest - ******Launching Chrome Browser**********
+23:02:15.292 [main] INFO  testCases.TC_002_LoginTest - *****Launching Application
+23:02:15.467 [main] INFO  testCases.TC_002_LoginTest - Starting TC_002_LoginTest
+23:02:17.841 [main] INFO  testCases.TC_002_LoginTest - Finished TC_002_LoginTest.......
+23:02:18.178 [main] INFO  testCases.TC_002_LoginTest - *****Closing Application
