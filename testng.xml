@@ -12,7 +12,7 @@
     <classes>
      <class name="testCases.TC_001_AccountRegistrationTest"/> 
       <class name="testCases.TC_002_LoginTest"/> 
-     <!--  <class name="testCases.TC_003_LoginDataDrivenTest"/>-->
+     <class name="testCases.TC_003_LoginDataDrivenTest"/>
       
     </classes>
   </test> <!-- Test -->
